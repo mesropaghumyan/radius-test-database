@@ -3,13 +3,13 @@
 
 ## Installation
 
-`
-$ cp .env.example .env
-`
+```shell
+cp .env.example .env
+```
 
-`
-$ nano .env
-`
+```shell
+nano .env
+```
 
 Change environment variables to suit your needs :
 
