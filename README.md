@@ -1,4 +1,4 @@
-# Mise en place d'une base de données MySQL RADIUS de test
+# Setting up a MySQL RADIUS test database
 > Docker containerization of a MySQL RADIUS database for test purposes
 
 ## Installation
