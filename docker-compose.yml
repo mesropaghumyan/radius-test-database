@@ -22,10 +22,12 @@ services:
 volumes:
   mysql_data:
 
-networks:
-  default:
-    driver: bridge
-    ipam:
-      driver: default
-      config:
-        - subnet: 10.204.0.0/24
+# uncomment this, if you want to configure network
+
+#networks:
+#  default:
+#    driver: bridge
+#    ipam:
+#      driver: default
+#      config:
+#        - subnet: 10.204.0.0/24
